@@ -6,5 +6,5 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
 
 #### Screenshot of the Chrome Extention
 
-![](images/screen.png)
+![Image of my Extension](/screen.png)
 
