@@ -6,5 +6,5 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
 
 #### Screenshot of the Chrome Extention
 
-![Image of my Extension](/screen.png)
+![Image of my Extension](https://github.com/vedantpople4/my_extension/blob/master/screen.JPG)
 
