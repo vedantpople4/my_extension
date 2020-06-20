@@ -8,3 +8,5 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
 
 ![Image of my Extension](https://github.com/vedantpople4/my_extension/blob/master/screen.JPG)
 
+Star the Repo if you like it.
+
